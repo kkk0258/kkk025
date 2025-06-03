@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="HelloWorld_Koki/src"/>
+	<classpathentry kind="src" path="Sushi_Koki/src"/>
+	<classpathentry kind="output" path="HelloWorld_Koki/bin"/>
+</classpath>
